@@ -31,4 +31,4 @@ def twoNumberSum(array, target):
 if __name__ == '__main__':
     testArray1 = [1, 3, 6, 9, -1]
     resultArray1 = [-1, 1]
-    print(twoNumberSum(testArray1, 0)==resultArray1)
+    print(twoNumberSum(testArray1, 0) == resultArray1)
